@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="-54128.326"
-     inkscape:cy="70001.553"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="-52380.682"
+     inkscape:cy="55422.962"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer85"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1356"
@@ -805,6 +805,40 @@
            y="-13807.857"
            x="-7848.2646"
            id="tspan18249"
+           sodipodi:role="line">Minion</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer85"
+     inkscape:label="MinionNodeGold">
+    <g
+       style="display:inline;opacity:1"
+       id="g18253-6"
+       transform="matrix(0.88672823,0,0,0.88672823,-6790.8676,-2707.9037)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18245-6"
+         d="m -8259.9495,-13590.726 84.407,-42.237 h 394.9239 l 84.4069,42.237 v 610.6 l -84.4069,42.183 h -394.9239 l -84.407,-42.183 z"
+         style="opacity:1;vector-effect:none;fill:url(#linearGradient13240);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient7523);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         style="opacity:1;vector-effect:none;fill:#ffee00;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient7523);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -8259.9495,-13630.414 84.407,-42.237 h 394.9239 l 84.4069,42.237 -3e-4,123.475 -84.4066,-42.238 h -394.9239 l -84.4075,42.238 z"
+         id="path18247-0"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="scale(1.0163866,0.98387759)"
+         id="text18251-9"
+         y="-13807.857"
+         x="-7848.2563"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.10993195px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.01639075px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:url(#linearGradient7523);fill-opacity:1;stroke:none;stroke-width:0.21932067px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="text-align:center;letter-spacing:-0.01639075px;text-anchor:middle;fill:url(#linearGradient7523);stroke-width:0.21932067px;"
+           y="-13807.857"
+           x="-7848.2646"
+           id="tspan18249-1"
            sodipodi:role="line">Minion</tspan></text>
     </g>
   </g>
@@ -3517,6 +3551,33 @@
            y="-11321.111"
            x="3804.5295"
            id="tspan8609"
+           sodipodi:role="line">salt-minion</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer86"
+     inkscape:label="salt-minionGold">
+    <g
+       transform="matrix(0.84467187,0,0,0.84427666,-17132.627,-5164.2056)"
+       id="g8613-3"
+       style="display:inline;opacity:1;stroke-width:1.0704602">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8607-2"
+         d="m 3595.201,-11224.96 90.3332,-45.224 h 361.3328 l 90.3331,45.224 v 112.917 l -90.3331,45.166 h -361.3328 l -90.3332,-45.166 z"
+         style="opacity:1;vector-effect:none;fill:#ffee00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.35230112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0161488,0.98410783)"
+         id="text8611-2"
+         y="-11321.111"
+         x="3804.5383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.04989624px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.01754565px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:url(#linearGradient7523);fill-opacity:1;stroke:none;stroke-width:0.23477405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="text-align:center;letter-spacing:-0.01754565px;text-anchor:middle;fill:url(#linearGradient7523);stroke-width:0.23477405px;"
+           y="-11321.111"
+           x="3804.5295"
+           id="tspan8609-5"
            sodipodi:role="line">salt-minion</tspan></text>
     </g>
   </g>

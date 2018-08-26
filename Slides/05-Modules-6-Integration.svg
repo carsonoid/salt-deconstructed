@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="-68186.019"
-     inkscape:cy="6342.862"
+     inkscape:zoom="0.0625"
+     inkscape:cx="-53288.479"
+     inkscape:cy="-6968.4383"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer88"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1356"
@@ -2888,6 +2888,33 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer89"
+     inkscape:label="ClCloud">
+    <g
+       style="display:inline;opacity:1"
+       id="g6914-3-87"
+       transform="matrix(0.97335906,0,0,0.97335906,-17635.835,14313.842)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6908-9-5"
+         d="m 3595.201,-11451.822 90.3332,-45.224 h 361.3328 l 90.3331,45.224 v 112.917 l -90.3331,45.166 h -361.3328 l -90.3332,-45.166 z"
+         style="opacity:1;vector-effect:none;fill:url(#SSD_GREEN-2);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0161488,0.98410783)"
+         id="text6912-4-5"
+         y="-11551.638"
+         x="3804.3918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.04989624px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.01754565px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21932067px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;letter-spacing:-0.01754565px;text-anchor:middle;fill:#ffffff;stroke-width:0.21932067px"
+           y="-11551.638"
+           x="3804.3831"
+           id="tspan6910-7-65"
+           sodipodi:role="line">salt-cloud</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer48"
      inkscape:label="PrCmdDevColor">
     <path
@@ -3615,6 +3642,33 @@
            x="-3553.5713"
            y="-13375.491"
            style="fill:url(#linearGradient13240);stroke-width:0.01536097px">$ salt '*' saltutil.sync_proxymodules</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer88"
+     inkscape:label="PrProxy">
+    <g
+       style="display:inline;opacity:1"
+       id="g6914-3-8"
+       transform="matrix(0.97335906,0,0,0.97335906,-17640.068,13136.976)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6908-9-3"
+         d="m 3595.201,-11451.822 90.3332,-45.224 h 361.3328 l 90.3331,45.224 v 112.917 l -90.3331,45.166 h -361.3328 l -90.3332,-45.166 z"
+         style="opacity:1;vector-effect:none;fill:url(#SSD_GREEN-2);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0161488,0.98410783)"
+         id="text6912-4-3"
+         y="-11551.638"
+         x="3804.3918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.04989624px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.01754565px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21932067px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;letter-spacing:-0.01754565px;text-anchor:middle;fill:#ffffff;stroke-width:0.21932067px"
+           y="-11551.638"
+           x="3804.3831"
+           id="tspan6910-7-6"
+           sodipodi:role="line">salt-proxy</tspan></text>
     </g>
   </g>
   <g
@@ -5086,6 +5140,33 @@
            x="-3553.4133"
            y="-13376.104"
            style="fill:url(#linearGradient13240);stroke-width:0.01471986px">$ cp myaapi.py &lt;SALT DIST PATH&gt;/salt/netapi/</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer87"
+     inkscape:label="NaAPI">
+    <g
+       style="display:inline;opacity:1"
+       id="g6914-3-3"
+       transform="matrix(0.97335906,0,0,0.97335906,-17643.684,11930.065)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6908-9-9"
+         d="m 3595.201,-11451.822 90.3332,-45.224 h 361.3328 l 90.3331,45.224 v 112.917 l -90.3331,45.166 h -361.3328 l -90.3332,-45.166 z"
+         style="opacity:1;vector-effect:none;fill:url(#SSD_GREEN-2);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0161488,0.98410783)"
+         id="text6912-4-9"
+         y="-11551.638"
+         x="3804.3918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.04989624px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.01754565px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21932067px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;letter-spacing:-0.01754565px;text-anchor:middle;fill:#ffffff;stroke-width:0.21932067px"
+           y="-11551.638"
+           x="3804.3831"
+           id="tspan6910-7-5"
+           sodipodi:role="line">salt-api</tspan></text>
     </g>
   </g>
   <g
@@ -7007,6 +7088,33 @@
            x="-3553.5713"
            id="tspan11251-5"
            sodipodi:role="line">$ cp myauth.py &lt;SALT DIST PATH&gt;/salt/auth/</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer61"
+     inkscape:label="AuAPI">
+    <g
+       style="display:inline;opacity:1"
+       id="g6914-3"
+       transform="matrix(0.97335907,0,0,0.97335907,-17641.442,10745.025)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6908-9"
+         d="m 3595.201,-11451.822 90.3332,-45.224 h 361.3328 l 90.3331,45.224 v 112.917 l -90.3331,45.166 h -361.3328 l -90.3332,-45.166 z"
+         style="opacity:1;vector-effect:none;fill:url(#SSD_GREEN-2);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0161488,0.98410783)"
+         id="text6912-4"
+         y="-11551.638"
+         x="3804.3918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.04989624px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.01754565px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21932067px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;letter-spacing:-0.01754565px;text-anchor:middle;fill:#ffffff;stroke-width:0.21932067px"
+           y="-11551.638"
+           x="3804.3831"
+           id="tspan6910-7"
+           sodipodi:role="line">salt-api</tspan></text>
     </g>
   </g>
   <g

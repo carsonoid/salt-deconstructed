@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627416"
-     inkscape:cx="-54916.696"
-     inkscape:cy="69399.863"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="-53005.281"
+     inkscape:cy="51528.28"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer24"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1356"
@@ -2664,7 +2664,7 @@
         <path
            inkscape:connector-curvature="0"
            style="opacity:1;vector-effect:none;fill:#01665e;fill-opacity:1;stroke:#000000;stroke-width:3.70026779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -16258.617,-16084.202 h 81.887 v 79.316 h -81.887 z"
+           d="m -16274.667,-16043.635 57.902,-57.903 56.085,56.085 -57.902,57.903 z"
            id="path9919" />
         <g
            aria-label="Th"
@@ -2675,14 +2675,14 @@
       <text
          id="text9949"
          y="-17483.4"
-         x="-16808.486"
+         x="-16845.523"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.9344101px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20292003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.20292003px"
            y="-17483.4"
-           x="-16808.486"
+           x="-16845.523"
            id="tspan9947"
-           sodipodi:role="line">reactor</tspan></text>
+           sodipodi:role="line">engine</tspan></text>
       <text
          id="text9966"
          y="-17486.588"
@@ -2693,7 +2693,7 @@
            y="-17486.588"
            x="-17111.814"
            id="tspan9964"
-           sodipodi:role="line">Rc</tspan></text>
+           sodipodi:role="line">En</tspan></text>
     </g>
   </g>
   <g
