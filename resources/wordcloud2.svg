@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Open+Sans:400:latin-ext); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 1920,0 L1920,1080 L 0,1080 z M 0,0 L 2070,0 L 2070,1170 L 0,1170 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="2070" height="1170" opacity="1" fill="#fff" stroke="none">
+</rect>
+<text x="-705.849609375" y="27.000665999999995" style="font: normal 270.00666px 'Open Sans'" text-anchor="start" dy="106.72200000000001" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(959, 539) rotate(-6839.999999999999)">salt-minion</text>
+<text x="-708.28857421875" y="27.000665999999995" style="font: normal 270.00666px 'Open Sans'" text-anchor="start" dy="106.72200000000001" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1001, 735) rotate(-1800)">salt-master</text>
+<text x="-314.912109375" y="18.000444" style="font: normal 180.00444px 'Open Sans'" text-anchor="start" dy="71.148" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(896, 364) rotate(-17280)">salt-call</text>
+<text x="-319.5703125" y="18.000444" style="font: normal 180.00444px 'Open Sans'" text-anchor="start" dy="71.148" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(987, 210) rotate(-1080)">salt-key</text>
+<text x="-317.5927734375" y="18.000444" style="font: normal 180.00444px 'Open Sans'" text-anchor="start" dy="71.148" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(987, 910) rotate(-5399.999999999999)">salt-ssh</text>
+<text x="-323.701171875" y="18.000444" style="font: normal 180.00444px 'Open Sans'" text-anchor="start" dy="71.148" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(847, 56) rotate(-14400)">salt-run</text>
+<text x="-147.5244140625" y="18.000444" style="font: normal 180.00444px 'Open Sans'" text-anchor="start" dy="71.148" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1344, 364) rotate(-9000)">salt</text>
+<text x="-233.3935546875" y="9.000222" style="font: normal 90.00222px 'Open Sans'" text-anchor="start" dy="35.574" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1036, 1029) rotate(-14400)">salt-extend</text>
+<text x="-220.3857421875" y="9.000222" style="font: normal 90.00222px 'Open Sans'" text-anchor="start" dy="35.574" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(448, 301) rotate(-6120.000000000001)">salt-syndic</text>
+<text x="-193.42529296875" y="9.000222" style="font: normal 90.00222px 'Open Sans'" text-anchor="start" dy="35.574" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1358, 147) rotate(-14400)">salt-unity</text>
+<text x="-152.2265625" y="9.000222" style="font: normal 90.00222px 'Open Sans'" text-anchor="start" dy="35.574" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(434, 413) rotate(-11880.000000000002)">salt-api</text>
+<text x="-137.2412109375" y="9.000222" style="font: normal 90.00222px 'Open Sans'" text-anchor="start" dy="35.574" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(532, 189) rotate(-18000)">salt-cp</text>
+<text x="-90.90087890625" y="9.000222" style="font: normal 90.00222px 'Open Sans'" text-anchor="start" dy="35.574" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(819, 469) rotate(-16920)">spm</text>
+</svg>

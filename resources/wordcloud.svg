@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Open+Sans:400:latin-ext); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 1920,0 L1920,1080 L 0,1080 z M 0,0 L 2000,0 L 2000,1125 L 0,1125 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="2000" height="1125" opacity="1" fill="#fff" stroke="none">
+</rect>
+<text x="-494.13214111328125" y="24.39190599999999" style="font: normal 243.91906px 'Open Sans'" text-anchor="start" dy="96.41069565217393" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(948, 528) rotate(-6120.000000000001)">modules</text>
+<text x="-338.7109375" y="24.39190599999999" style="font: normal 243.91906px 'Open Sans'" text-anchor="start" dy="96.41069565217393" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(888, 696) rotate(-6839.999999999999)">states</text>
+<text x="-338.7109375" y="24.39190599999999" style="font: normal 243.91906px 'Open Sans'" text-anchor="start" dy="96.41069565217393" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(936, 336) rotate(-5399.999999999999)">states</text>
+<text x="-358.6493835449219" y="21.952715399999988" style="font: normal 219.527154px 'Open Sans'" text-anchor="start" dy="86.76962608695652" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1032, 876) rotate(-2160)">minion</text>
+<text x="-360.6323547363281" y="21.952715399999988" style="font: normal 219.527154px 'Open Sans'" text-anchor="start" dy="86.76962608695652" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(816, 180) rotate(-7919.999999999999)">master</text>
+<text x="-360.580810546875" y="19.5135248" style="font: normal 195.135248px 'Open Sans'" text-anchor="start" dy="77.12855652173913" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(864, 24) rotate(-6839.999999999999)">runners</text>
+<text x="-227.90574645996094" y="19.5135248" style="font: normal 195.135248px 'Open Sans'" text-anchor="start" dy="77.12855652173913" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1476, 720) rotate(-7919.999999999999)">pillar</text>
+<text x="-322.284423828125" y="14.635143599999992" style="font: normal 146.35143599999998px 'Open Sans'" text-anchor="start" dy="57.84641739130434" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(804, 1008) rotate(-17280)">returners</text>
+<text x="-285.4468078613281" y="14.635143599999992" style="font: normal 146.35143599999998px 'Open Sans'" text-anchor="start" dy="57.84641739130434" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1428, 240) rotate(-14400)">beacons</text>
+<text x="-167.18771362304688" y="11.708114879999997" style="font: normal 117.0811488px 'Open Sans'" text-anchor="start" dy="46.27713391304348" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1440, 372) rotate(-10440)">grains</text>
+<text x="-142.3509521484375" y="10.732438639999998" style="font: normal 107.3243864px 'Open Sans'" text-anchor="start" dy="42.42070608695652" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(456, 420) rotate(-360)">proxy</text>
+<text x="-224.94058227539062" y="9.7567624" style="font: normal 97.567624px 'Open Sans'" text-anchor="start" dy="38.564278260869564" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1416, 168) rotate(-3600)">renderers</text>
+<text x="-150.41183471679688" y="8.293248040000002" style="font: normal 82.9324804px 'Open Sans'" text-anchor="start" dy="32.779636521739135" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(444, 336) rotate(-14400)">engines</text>
+<text x="-130.63092041015625" y="8.293248040000002" style="font: normal 82.9324804px 'Open Sans'" text-anchor="start" dy="32.779636521739135" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(540, 864) rotate(-2880)">output</text>
+<text x="-58.13652038574219" y="6.829733679999997" style="font: normal 68.2973368px 'Open Sans'" text-anchor="start" dy="26.994994782608696" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(480, 672) rotate(-12600)">sdb</text>
+<text x="-57.32814025878906" y="5.366219319999999" style="font: normal 53.6621932px 'Open Sans'" text-anchor="start" dy="21.21035304347826" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1404, 456) rotate(-7560.000000000001)">auth</text>
+<text x="-26.34527587890625" y="5.366219319999999" style="font: normal 53.6621932px 'Open Sans'" text-anchor="start" dy="21.21035304347826" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1056, 528) rotate(-12959.999999999998)">cli</text>
+<text x="-92.09365844726562" y="4.8783812" style="font: normal 48.783812px 'Open Sans'" text-anchor="start" dy="19.282139130434782" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(444, 768) rotate(-8280)">thorium</text>
+<text x="-96.27772521972656" y="4.3905430800000005" style="font: normal 43.9054308px 'Open Sans'" text-anchor="start" dy="17.353925217391303" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1260, 1020) rotate(-1800)">transport</text>
+<text x="-54.852806091308594" y="3.9027049599999994" style="font: normal 39.0270496px 'Open Sans'" text-anchor="start" dy="15.425711304347827" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1332, 336) rotate(-2520)">roster</text>
+<text x="-79.80721282958984" y="3.4148668399999984" style="font: normal 34.1486684px 'Open Sans'" text-anchor="start" dy="13.497497391304348" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(468, 816) rotate(-16200.000000000002)">serializers</text>
+<text x="-73.78104400634766" y="3.4148668399999984" style="font: normal 34.1486684px 'Open Sans'" text-anchor="start" dy="13.497497391304348" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1512, 576) rotate(-16200.000000000002)">fileserver</text>
+<text x="-40.48919677734375" y="2.927028719999999" style="font: normal 29.2702872px 'Open Sans'" text-anchor="start" dy="11.56928347826087" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1284, 108) rotate(-3959.9999999999995)">wheel</text>
+<text x="-29.95600128173828" y="2.927028719999999" style="font: normal 29.2702872px 'Open Sans'" text-anchor="start" dy="11.56928347826087" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(624, 924) rotate(-7560.000000000001)">tops</text>
+<text x="-21.044944763183594" y="2.927028719999999" style="font: normal 29.2702872px 'Open Sans'" text-anchor="start" dy="11.56928347826087" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(912, 468) rotate(-8280)">ext</text>
+<text x="-56.79484558105469" y="2.4391906" style="font: normal 24.391906px 'Open Sans'" text-anchor="start" dy="9.641069565217391" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1128, 660) rotate(-15839.999999999998)">templates</text>
+<text x="-30.60657501220703" y="2.4391906" style="font: normal 24.391906px 'Open Sans'" text-anchor="start" dy="9.641069565217391" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1008, 492) rotate(-5399.999999999999)">client</text>
+<text x="-31.213943481445312" y="2.4391906" style="font: normal 24.391906px 'Open Sans'" text-anchor="start" dy="9.641069565217391" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(840, 492) rotate(-1800)">cloud</text>
+<text x="-32.720458984375" y="2.4391906" style="font: normal 24.391906px 'Open Sans'" text-anchor="start" dy="9.641069565217391" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(816, 660) rotate(-10799.999999999998)">cache</text>
+<text x="-44.659576416015625" y="1.9513524799999997" style="font: normal 19.5135248px 'Open Sans'" text-anchor="start" dy="7.712855652173913" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1500, 624) rotate(-4320)">executors</text>
+<text x="-42.48280334472656" y="1.9513524799999997" style="font: normal 19.5135248px 'Open Sans'" text-anchor="start" dy="7.712855652173913" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1404, 840) rotate(-3600)">daemons</text>
+<text x="-21.57707977294922" y="1.4635143599999996" style="font: normal 14.6351436px 'Open Sans'" text-anchor="start" dy="5.784641739130435" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1044, 468) rotate(-16560)">netapi</text>
+<text x="-10.275985717773438" y="1.4635143599999996" style="font: normal 14.6351436px 'Open Sans'" text-anchor="start" dy="5.784641739130435" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(972, 552) rotate(-10440)">log</text>
+<text x="-16.767333984375" y="0.9756762399999999" style="font: normal 9.7567624px 'Open Sans'" text-anchor="start" dy="3.8564278260869567" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(888, 588) rotate(-14759.999999999998)">queues</text>
+<text x="-15.2772216796875" y="0.9756762399999999" style="font: normal 9.7567624px 'Open Sans'" text-anchor="start" dy="3.8564278260869567" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1056, 588) rotate(-10799.999999999998)">tokens</text>
+<text x="-9.84759521484375" y="0.9756762399999999" style="font: normal 9.7567624px 'Open Sans'" text-anchor="start" dy="3.8564278260869567" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(972, 516) rotate(-3239.9999999999995)">spm</text>
+<text x="-6.8995513916015625" y="0.48783811999999993" style="font: normal 4.8783812px 'Open Sans'" text-anchor="start" dy="1.9282139130434783" opacity="1" fill="#4c4c4c" stroke="none" transform="translate(1008, 384) rotate(-5040)">config</text>
+</svg>
