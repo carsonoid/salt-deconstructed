@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="-55565.334"
-     inkscape:cy="56946.191"
+     inkscape:zoom="0.125"
+     inkscape:cx="-53508.594"
+     inkscape:cy="57566.188"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1356"
@@ -120,7 +120,7 @@
        inkscape:vp_x="452.68555 : 297.54232 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,-15901.963,-18739.467)"
+       gradientTransform="matrix(0,0,0,0,-15901.963,-20898.467)"
        osb:paint="solid"
        id="SSD_GREEN-2">
       <stop
@@ -639,6 +639,33 @@
          x="-14788.554"
          y="-15660.16"
          style="stroke-width:0.26458332px" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="links">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.66666412px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:url(#SSD_GREEN-2);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-14999.242"
+       y="-15060.407"
+       id="text5234"><tspan
+         sodipodi:role="line"
+         id="tspan5232"
+         x="-14999.242"
+         y="-15060.407"
+         style="fill:url(#SSD_GREEN-2);stroke-width:0.26458332px">kube-decon.carson-anderson.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.66666412px;line-height:125.99999905%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:url(#SSD_GREEN-2);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-14999.201"
+       y="-14930.499"
+       id="text5238"><tspan
+         sodipodi:role="line"
+         id="tspan5236"
+         x="-14999.201"
+         y="-14930.499"
+         style="fill:url(#SSD_GREEN-2);stroke-width:0.26458332px">salt-decon.carson-anderson.com</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2096,9 +2123,9 @@
      inkscape:label="Next">
     <a
        xlink:href="./00-Intro.sozi.html"
-       transform="translate(-691.87464,3972.9115)"
+       id="a12123"
        style="opacity:1;fill:url(#linearGradient7523);stroke:url(#linearGradient7523)"
-       id="a12123">
+       transform="translate(-691.87464,3972.9115)">
       <rect
          y="-18855.932"
          x="-14914.121"

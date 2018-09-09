@@ -3976,7 +3976,7 @@
      id="layer4"
      inkscape:groupmode="layer">
     <a
-       xlink:href="C:\Users\carsona\Dropbox\Documents\Saltconf18\Saltstack Deconstructed\storyboards\./04-Scripts.sozi.html"
+       xlink:href="./04-Scripts.sozi.html"
        transform="matrix(1.0380146,0,0,1.0380146,35.370759,681.19582)"
        style="opacity:1"
        id="a9757">
@@ -3989,7 +3989,7 @@
          y="-18011.467" />
     </a>
     <a
-       xlink:href="C:\Users\carsona\Dropbox\Documents\Saltconf18\Saltstack Deconstructed\storyboards\./03-Transport.sozi.html"
+       xlink:href="./03-Transport.sozi.html"
        transform="matrix(1.0380146,0,0,1.0380146,35.370759,681.19582)"
        style="opacity:1"
        id="a9754">
@@ -4009,7 +4009,7 @@
        id="rect9722"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.0373832;stroke:none;stroke-width:4.33611059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <a
-       xlink:href="C:\Users\carsona\Dropbox\Documents\Saltconf18\Saltstack Deconstructed\storyboards\./02-Master.sozi.html"
+       xlink:href="./02-Master.sozi.html"
        transform="matrix(1.0380146,0,0,1.0380146,35.370759,681.19582)"
        style="opacity:1"
        id="a9751">
@@ -4022,7 +4022,7 @@
          y="-18256.576" />
     </a>
     <a
-       xlink:href="C:\Users\carsona\Dropbox\Documents\Saltconf18\Saltstack Deconstructed\storyboards\./01-Minion.sozi.html"
+       xlink:href="./01-Minion.sozi.html"
        transform="matrix(1.0380146,0,0,1.0380146,35.370759,681.19675)"
        style="opacity:1"
        id="a9748">
@@ -4042,7 +4042,7 @@
      inkscape:groupmode="layer">
     <a
        id="a5569"
-       xlink:href="C:\Users\carsona\Dropbox\Documents\Saltconf18\Saltstack Deconstructed\Slides\./05-Modules-1-Core.sozi.html">
+       xlink:href="./05-Modules-1-Core.sozi.html">
       <rect
          style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#8d0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5552"
