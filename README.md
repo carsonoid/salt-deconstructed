@@ -6,5 +6,5 @@
 
 # Slide Links
 
-  * [Interactive Slides]()
+  * [Interactive Slides](http://salt-decon.carson-anderson.com/out/00-Intro.sozi.html)
   * [PDF Version]()
