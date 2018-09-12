@@ -7,4 +7,4 @@
 # Slide Links
 
   * [Interactive Slides](http://salt-decon.carson-anderson.com/out/00-Intro.sozi.html)
-  * [PDF Version]()
+  * [PDF Version](http://salt-decon.carson-anderson.com/pdf/Carson-Anderson_Salt-Desconstructed.pdf)
